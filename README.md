@@ -1,4 +1,4 @@
-# Crown Clothing e-commerce web application builting using React - personal project
+# Crown Clothing e-commerce React web application - personal project
 
 This project follows ZTM's React web developer course capstone. This repo hosts a front-end project utilizing redux for state management. Users can build out a shopping cart (backend for store and user auth using Firebase/Firestore)
 
